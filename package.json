@@ -1,0 +1,23 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "自动化构建demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2935074873/gitbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2935074873/gitbook/issues"
+  },
+  "homepage": "https://github.com/2935074873/gitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
